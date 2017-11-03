@@ -1,7 +1,5 @@
-# btc-course
-
 # Introduction
-- Brief history of btc
+- Brief history of Bitcoin
 - How bitcoin works overview
 - How and where to get/buy bitcoin
 - Lab: Create new bitcoin wallet
